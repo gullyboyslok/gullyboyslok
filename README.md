@@ -1,4 +1,9 @@
-## Hi there 👋
+## shlok jaiswal
+developer
+
+working on - clash royale bot, autocanvas
+languages - python, java, c/c++, js
+currently learning - opencv, web js
 
 <!--
 **gullyboyslok/gullyboyslok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
