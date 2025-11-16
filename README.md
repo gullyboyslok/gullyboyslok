@@ -1,7 +1,7 @@
 ## shlok jaiswal
 developer
 
-working on - clash royale bot, autocanvas
+working on - clash royale bot, mini automator (pocket n8n)
 
 languages - python, java, c/c++, js
 
