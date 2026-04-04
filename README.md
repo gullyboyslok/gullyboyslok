@@ -1,11 +1,13 @@
 ## shlok jaiswal
 developer
 
-working on - clash royale bot, mini automator (pocket n8n)
+currently doing research at [MIT Critical Data](https://github.com/ai-for-evil)
+
+projects i'm working on - neutron, clash royale bot
 
 languages - python, java, c/c++, js
 
-currently learning - opencv, web js
+currently learning - opencv, web js, neural networks
 
 <!--
 **gullyboyslok/gullyboyslok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
