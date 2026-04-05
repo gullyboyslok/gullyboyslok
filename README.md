@@ -1,25 +1,25 @@
-## shlok jaiswal
-developer
+# shlok jaiswal 🧑‍💻
+[![Linkedin: shlokjaiswal](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shlokjaiswal/)
+[![GitHub gullyboyslok](https://img.shields.io/github/followers/gullyboyslok?label=follow&style=social)](https://github.com/gullyboyslok)
 
-currently doing research at [MIT Critical Data](https://github.com/ai-for-evil)
+I code things for fun and publish the good things to my Github. I do research, code PID controllers for VEX robotics, and work on other machine learning and AI-related projects.
 
-projects i'm working on - neutron, clash royale bot
+* 🏫**research** - [AI For Evil](https://github.com/ai-for-evil) @ MIT Critical Data, Prediction Markets v. Stocks @ Mizzou
 
-languages - python, java, c/c++, js
+* ✍️**languages i'm good at** -
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-currently learning - opencv, web js, neural networks
+* 🏗️**projects i'm working on** - [neutron](https://github.com/gullyboyslok/neutron), [clash royale bot](https://github.com/gullyboyslok/cr)
 
-<!--
-**gullyboyslok/gullyboyslok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓**currently learning** - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat&logo=google-cloud&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+reach out -> [gullyboyslok@gmail.com](mailto:gullyboyslok@gmail.com)
+
+let's connect -> [/in/shlokjaiswal↗](https://linkedin.com/in/shlokjaiswal)
