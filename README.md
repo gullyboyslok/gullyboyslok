@@ -4,7 +4,7 @@
 
 I code things for fun and publish the good things to my Github. I do research, code PID controllers for VEX robotics, and work on other machine learning and AI-related projects.
 
-* 🏫**research** - [AI For Evil](https://github.com/ai-for-evil) @ MIT Critical Data, Prediction Markets v. Stocks @ Mizzou
+* 🏫**research** - Prediction Markets v. Stocks @ Mizzou
 
 * ✍️**languages i'm good at** -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
