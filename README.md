@@ -2,9 +2,9 @@
 [![Linkedin: shlokjaiswal](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shlokjaiswal/)
 [![GitHub gullyboyslok](https://img.shields.io/github/followers/gullyboyslok?label=follow&style=social)](https://github.com/gullyboyslok)
 
-I code things for fun and publish the good things to my Github. I do research, code PID controllers for VEX robotics, and work on other machine learning and AI-related projects.
+I code things for fun and publish the good things to my Github. I do research, code PID controllers and autonomous programming for VEX robotics, and work on other machine learning and AI-related projects.
 
-* 🏫**research** - Prediction Markets v. Stocks @ Mizzou
+* 🏫**research** - Several projects @ MIT, Prediction Markets v. Stocks @ Mizzou
 
 * ✍️**languages i'm good at** -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,8 +15,7 @@ I code things for fun and publish the good things to my Github. I do research, c
 
 * 🏗️**projects i'm working on** - [neutron](https://github.com/gullyboyslok/neutron), [clash royale bot](https://github.com/gullyboyslok/cr)
 
-* 🎓**currently learning** - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat&logo=google-cloud&logoColor=white)
+* 🎓**currently learning** - OpenCV, Neural Networks, PyTorch, World Models
 
 
 
